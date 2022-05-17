@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" data-color-mode="dark" data-dark-theme="dark">
+
+<!-- Mirrored from mattlawz.dev/loadstringer/resources.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 May 2022 01:04:02 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paste Resources</title>
+    <link rel="icon" href="assets/images/logo.gif">
+    <link href="../../unpkg.com/%40primer/css%4016.3.0/dist/primer.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../../cdn.jsdelivr.net/npm/%40sweetalert2/theme-dark%405/dark.css">
+    <script src="../../cdn.jsdelivr.net/npm/sweetalert2%4011/dist/sweetalert2.min.js" type="696b5a860136246ff3d42f27-text/javascript"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&amp;display=swap" rel="stylesheet">
+    <script async src="../../cdn.splitbee.io/sb.js" type="696b5a860136246ff3d42f27-text/javascript"></script>
+    <script src="../../cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js" type="696b5a860136246ff3d42f27-text/javascript"></script>
+    <script type="696b5a860136246ff3d42f27-text/javascript">
+    window.addEventListener('load', () => {
+    quicklink.listen();
+    });
+    </script>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script defer src="assets/js/script.js" type="696b5a860136246ff3d42f27-text/javascript"></script>
+    <script data-cfasync='false' defer src="../../cdn.statically.io/gist/MattLawz/24188c66429a73ada592819d9431f8fc/raw/f22f813207745ccbb2facc098e085c95a7eee801/customadblocker.js"></script>
+    <script data-cfasync='false' type='text/javascript' src='http://p444247.clksite.com/adServe/banners?tid=444247_870121_7&amp;tagid=2'></script>
+<script async src='../cdn-cgi/challenge-platform/h/b/scripts/invisiblefe7e.js?ts=1652490000'></script></head>
+<script src="../cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="696b5a860136246ff3d42f27-|49"></script><body onload="adblockerdetection()">
+    <div class="Header">
+        <div class="Header-item">
+          <a href="https://mattlawz.dev/loadstringer" class="Header-link f4 d-flex flex-items-center">
+            <img class="avatar avatar-5 mr-2" alt="Logo" src="assets/images/logo.gif" />
+           <span>Loadstringer</span>
+          </a>
+        </div>
+        <div class="Header-item">
+            <a href="resources.html" class="Header-link">RAW Paste Resources</a>
+        </div>
+        <div class="Header-item">
+            <a onclick="if (!window.__cfRLUnblockHandlers) return false; changelog()" class="Header-link" data-cf-modified-696b5a860136246ff3d42f27-="">Changelog</a>
+        </div>
+        <div class="Header-item">
+            <a href="v1/index.html" class="Header-link">Go Back To v1</a>
+        </div>
+    </div>
+        <div class="container-sm text-center">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="h0-mktg">Paste Resources</p>
+                    <p>Need somewhere to host your scripts? Check out the sites below!</p>
+                    <br>
+                    <a class="btn btn-block mb-2" type="button" target="_blank" href="https://mattlawz.dev/to/?id=0h2lIzkNbI">0Bin</a>
+                    <a class="btn btn-block mb-2" type="button" target="_blank" href="https://mattlawz.dev/to/?id=e2FvxjlZZ5">ControlC</a>
+                    <a class="btn btn-block mb-2 tooltipped tooltipped-s tooltipped-no-delay" aria-label="Recommended" type="button" target="_blank" href="https://mattlawz.dev/to/?id=s9cu60NXlv">Github Gists</a>
+                    <a class="btn btn-block mb-2 tooltipped tooltipped-s tooltipped-no-delay" aria-label="Recommended" type="button" target="_blank" href="https://mattlawz.dev/to/?id=32cOgaQCb7">Ghostbin</a>
+                    <a class="btn btn-block mb-2 tooltipped tooltipped-s tooltipped-no-delay" aria-label="Recommended" type="button" target="_blank" href="https://mattlawz.dev/to/?id=bo4sjlYI2J">Hastebin</a>
+                    <a class="btn btn-block mb-2" type="button" target="_blank" href="https://mattlawz.dev/to/?id=qXoa1XndMT">JustPasteMe</a>
+                    <a class="btn btn-block mb-2" type="button" target="_blank" href="https://mattlawz.dev/to/?id=32cOgaQCb7">NoPaste</a>
+                    <a class="btn btn-block mb-2 tooltipped tooltipped-s tooltipped-no-delay" aria-label="Recommended" type="button" target="_blank" href="https://mattlawz.dev/to/?id=xHe2mofg3G">Pastebin</a>
+                    <a class="btn btn-block mb-2 tooltipped tooltipped-s tooltipped-no-delay" aria-label="Recommended" type="button" target="_blank" href="https://mattlawz.dev/to/?id=RgnqXJFiu3">Pastebin Proxy</a>
+                    <a class="btn btn-block mb-2 tooltipped tooltipped-s tooltipped-no-delay" aria-label="Recommended" type="button" target="_blank" href="https://mattlawz.dev/to/?id=ldriRS12F5">Pasteee</a>
+                    <a class="btn btn-block mb-2" type="button" target="_blank" href="https://mattlawz.dev/to/?id=Tp39DLax5R">PrivateBin</a>
+                    <a class="btn btn-block mb-2" type="button" target="_blank" href="https://mattlawz.dev/to/?id=g1LlvN5XHG">TextBin</a>
+                  <br>
+                  <footer>&copy; Copyright 2022 <a href="https://mattlawz.dev/" target="_blank">mattlawz.dev</a><br>Credits to Mlemix for assisting with development<br></footer>
+                  <div id="footer">
+                    <script data-cfasync='false' type='text/javascript' src='http://p444247.clksite.com/adServe/banners?tid=444247_870121_5'></script>                    
+                  </div>
+                  <div id="version">
+                    <a href="http://www.dmca.com/Protection/Status.aspx?ID=f54673ca-b9a7-4e40-b21e-4917772f95c6" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="../../images.dmca.com/Badges/dmca_protected_17_120e9a0.png?ID=f54673ca-b9a7-4e40-b21e-4917772f95c6"  alt="DMCA.com Protection Status" /></a>  <script src="../../images.dmca.com/Badges/DMCABadgeHelper.min.js" type="696b5a860136246ff3d42f27-text/javascript"> </script>
+                      <p>v2 Stable Build</p>                        
+                  </div>
+    </div>
+    </div>
+    </div>
+<script src="../cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="696b5a860136246ff3d42f27-|49" defer=""></script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'70afb38c0c5376e9',m:'twdMi5BhqDUZY6jvrOcgsgUa57SNQx1639v8aNedSlg-1652490073-0-Ab2Nnd145OkHBbQjbksUhh9DdH/ONNeyQQjJIBXCelj+nhmIi0eykMiFUpJjLsntKt0QLJvlZkGinheQiOTuKTOFvvEyjcg4X4NcZjgvGYRbbHwdlnk+2MIEGyMZuVK5vJbjW8vpedi0RQ9xkjwjxow=',s:[0x117c6ecaac,0xb578ccb6bf],u:'/cdn-cgi/challenge-platform/h/b'}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"70afb38c0c5376e9","version":"2021.12.0","r":1,"token":"d5b2777c7b2842478b4b8ceae22fe033","si":100}' crossorigin="anonymous"></script>
+</body>
+
+<!-- Mirrored from mattlawz.dev/loadstringer/resources.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 May 2022 01:04:02 GMT -->
+</html>
